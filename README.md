@@ -4,12 +4,14 @@ Repository contains solutions of BST, AVL, DFS, BFS, Dijkstra's, Bellman-Ford al
 
 # Table of contents
 
-    * [BST - Binary Search Tree](#bsr)
-    * [AVL - Adelson-Velsky Landis](#avl)
-    * [DFS - Depth-first search](#dfs)
-    * [BFS - Breadth-first search](#bfs)
-    * [Dijkstra's algorithm](#DA)
-    * [Bellman-Ford algorithm](#BFA)
+    * [BST](#bsr)
+    * [AVL](#avl)
+    * [DFS](#dfs)
+    * [BFS](#bfs)
+    * [Dijkstra's](#DA)
+    * [Bellman-Ford](#BFA)
+    
+
 
 
 ## BST - BST - Binary Search Tree
