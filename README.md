@@ -17,6 +17,17 @@ Repository contains solutions of BST, AVL, DFS, BFS, Dijkstra's, Bellman-Ford al
 
 ## [DFS](https://en.wikipedia.org/wiki/Depth-first_search)
 
+### Overview
+
+*Depth-first search* (**DFS**) is an algorithm for traversing or searching tree or graph data structures. The algorithm starts at the root node (selecting some arbitrary node as the root node in the case of a graph) and explores as far as possible along each branch before backtracking.
+
+The following example was taken from the *Depth-first search* [wiki-page](https://en.wikipedia.org/wiki/Depth-first_search).
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Depth-First-Search.gif/220px-Depth-First-Search.gif" alt="DFS"/>
+</p>
+
+
 ## [BFS](https://en.wikipedia.org/wiki/Breadth-first_search)
 
 ### Overview
