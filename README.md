@@ -25,7 +25,7 @@ Repository contains solutions of BST, AVL, DFS, BFS, Dijkstra's, Bellman-Ford al
 
 The following example was taken from the *Dijkstra's algorithm*[ wiki-page](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
-Dijkstra's algorithm to find the shortest path between *a* and *b*. It picks the unvisited vertex with the lowest distance, calculates the distance through it to each unvisited neighbor, and updates the neighbor's distance if smaller.
+*Dijkstra's algorithm* to find the shortest path between *a* and *b*. It picks the unvisited vertex with the lowest distance, calculates the distance through it to each unvisited neighbor, and updates the neighbor's distance if smaller.
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Dijkstra_Animation.gif/220px-Dijkstra_Animation.gif" alt="Dijkstra_Animation"/>
