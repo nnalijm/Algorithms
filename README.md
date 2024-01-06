@@ -5,17 +5,25 @@ Repository contains solutions of BST, AVL, DFS, BFS, Dijkstra's, Bellman-Ford al
 # Table of contents
 
 - [BST - Binary Search Tree](#bst)
+	- [BST Overview](#bst-overview)
 - [AVL - Adelson-Velsky Landis](#avl)
+	- [AVL Overview](#avl-overview)
 - [DFS - Depth-first search](#dfs)
+	- [DFS Overview](#dfs-overview)
 - [BFS - Breadth-first search](#bfs)
+	- [BFS Overview](#bfs-overview)
 - [Dijkstra's Algorithm](#dijkstras-algorithm)
+	- [Dijkstra's Overview](#dijkstras-overview)
 - [Bellman-Ford Algorithm](#bellman-ford-algorithm)
+	- [Bellman-Ford Overview](#bellman-ford-overview)
 
 ## [BST](https://en.wikipedia.org/wiki/Binary_search_tree)
 
+### BST Overview
+
 ## [AVL](https://en.wikipedia.org/wiki/AVL_tree)
 
-### Overview
+### AVL Overview
 
 **AVL tree** (named after inventors _**A**delson_-_**V**elsky_ and _**L**andis_) is a self-balancing binary search tree. In an AVL tree, the heights of the two child subtrees of any node differ by at most one; if at any time they differ by more than one, rebalancing is done to restore this property.
 
@@ -28,7 +36,7 @@ The following example was taken from the *AVL tree* [wiki-page](https://en.wikip
 
 ## [DFS](https://en.wikipedia.org/wiki/Depth-first_search)
 
-### Overview
+### DFS Overview
 
 *Depth-first search* (**DFS**) is an algorithm for traversing or searching tree or graph data structures. The algorithm starts at the root node (selecting some arbitrary node as the root node in the case of a graph) and explores as far as possible along each branch before backtracking.
 
@@ -41,7 +49,7 @@ The following example was taken from the *Depth-first search* [wiki-page](https:
 
 ## [BFS](https://en.wikipedia.org/wiki/Breadth-first_search)
 
-### Overview
+### BFS Overview
 
 *Breadth-first search* (**BFS**) is an algorithm for searching a tree data structure for a node that satisfies a given property. It starts at the tree root and explores all nodes at the present depth prior to moving on to the nodes at the next depth level.
 
@@ -53,7 +61,7 @@ The following example was taken from the *Breadth-first search* [wiki-page](http
 
 ## [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
-### Overview
+### Dijkstra's Overview
 
 ***Dijkstra's algorithm*** to find the shortest path between *a* and *b*. It picks the unvisited vertex with the lowest distance, calculates the distance through it to each unvisited neighbor, and updates the neighbor's distance if smaller.
 
@@ -66,7 +74,7 @@ The following example was taken from the *Dijkstra's algorithm* [wiki-page](http
 
 ## [Bellman-Ford Algorithm](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm)
 
-### Overview
+### Bellman-Ford Overview
 
 ***The Bellman–Ford*** algorithm is an algorithm that computes shortest paths from a single source vertex to all of the other vertices in a weighted digraph.
 
