@@ -19,6 +19,18 @@ Repository contains solutions of BST, AVL, DFS, BFS, Dijkstra's, Bellman-Ford al
 
 ## [BFS](https://en.wikipedia.org/wiki/Breadth-first_search)
 
+### Overview
+
+*Breadth-first search* (**BFS**) is an algorithm for searching a tree data structure for a node that satisfies a given property. It starts at the tree root and explores all nodes at the present depth prior to moving on to the nodes at the next depth level.
+
+The following example was taken from the *Breadth-first search* [wiki-page](https://en.wikipedia.org/wiki/Breadth-first_search)
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Animated_BFS.gif" alt="BFS"/>
+</p>
+
+
+
 ## [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
 ### Overview
