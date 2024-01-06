@@ -30,7 +30,7 @@ Repository contains solutions of BST, AVL, DFS, BFS, Dijkstra's, Bellman-Ford al
 The following example was taken from the *AVL tree* [wiki-page](https://en.wikipedia.org/wiki/AVL_tree).
 
 <p align="center">
-  <img src=""https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/AVL_Tree_Example.gif/220px-AVL_Tree_Example.gif alt="AVL"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/AVL_Tree_Example.gif/220px-AVL_Tree_Example.gif" alt="AVL"/>
 </p>
 
 
