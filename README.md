@@ -23,7 +23,7 @@ Repository contains solutions of BST, AVL, DFS, BFS, Dijkstra's, Bellman-Ford al
 
 ### Overview
 
-The following example was taken from the *Dijkstra's algorithm*[ wiki-page](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+The following example was taken from the *Dijkstra's algorithm* [wiki-page](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
 ***Dijkstra's algorithm*** to find the shortest path between *a* and *b*. It picks the unvisited vertex with the lowest distance, calculates the distance through it to each unvisited neighbor, and updates the neighbor's distance if smaller.
 
@@ -38,7 +38,7 @@ The following example was taken from the *Dijkstra's algorithm*[ wiki-page](http
 
 ***The Bellman–Ford*** algorithm is an algorithm that computes shortest paths from a single source vertex to all of the other vertices in a weighted digraph.
 
-The following example was taken from the *Bellman-Ford algorithm*[wiki-page](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm)
+The following example was taken from the *Bellman-Ford algorithm* [wiki-page](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm)
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bellman%E2%80%93Ford_algorithm_example.gif/220px-Bellman%E2%80%93Ford_algorithm_example.gif" alt="Bellman-Ford"/>
