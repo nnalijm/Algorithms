@@ -21,6 +21,15 @@ Repository contains solutions of BST, AVL, DFS, BFS, Dijkstra's, Bellman-Ford al
 
 ### BST Overview
 
+*Binary Search Tree* (**BST**), also called an ordered or sorted binary tree, is a rooted binary tree data structure with the key of each internal node being greater than all the keys in the respective node's left subtree and less than the ones in its right subtree. 
+
+The following example was taken from the *BST* [wiki-page](https://en.wikipedia.org/wiki/Binary_search_tree).
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Binary_search_tree.svg/180px-Binary_search_tree.svg.png" alt="AVL"/>
+</p>
+
+
 ## [AVL](https://en.wikipedia.org/wiki/AVL_tree)
 
 ### AVL Overview
