@@ -15,6 +15,17 @@ Repository contains solutions of BST, AVL, DFS, BFS, Dijkstra's, Bellman-Ford al
 
 ## [AVL](https://en.wikipedia.org/wiki/AVL_tree)
 
+### Overview
+
+**AVL tree** (named after inventors _**A**delson_-_**V**elsky_ and _**L**andis_) is a self-balancing binary search tree. In an AVL tree, the heights of the two child subtrees of any node differ by at most one; if at any time they differ by more than one, rebalancing is done to restore this property.
+
+The following example was taken from the *AVL tree* [wiki-page](https://en.wikipedia.org/wiki/AVL_tree).
+
+<p align="center">
+  <img src=""https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/AVL_Tree_Example.gif/220px-AVL_Tree_Example.gif alt="AVL"/>
+</p>
+
+
 ## [DFS](https://en.wikipedia.org/wiki/Depth-first_search)
 
 ### Overview
